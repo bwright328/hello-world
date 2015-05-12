@@ -1,3 +1,5 @@
 # hello-world
-my first repository
-this is a lab for network automation
+my first repository 
+This is my change to the first lab
+:wq
+
